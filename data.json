@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T21:45:11.786754+00:00",
+  "last_updated": "2026-03-30T22:00:12.428973+00:00",
   "scoreboard": [
     {
       "game_id": "0022501091",
@@ -97,7 +97,7 @@
   "today_games": [
     {
       "date": "2026-03-30",
-      "time": "15:45:07",
+      "time": "16:00:07",
       "game_id": "0022501091",
       "home_team": "MIA",
       "away_team": "PHI",
@@ -112,7 +112,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "15:45:07",
+      "time": "16:00:08",
       "game_id": "0022501092",
       "home_team": "ATL",
       "away_team": "BOS",
@@ -127,7 +127,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "15:45:08",
+      "time": "16:00:09",
       "game_id": "0022501093",
       "home_team": "MEM",
       "away_team": "PHX",
@@ -142,7 +142,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "15:45:09",
+      "time": "16:00:09",
       "game_id": "0022501094",
       "home_team": "SAS",
       "away_team": "CHI",
@@ -157,7 +157,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "15:45:09",
+      "time": "16:00:10",
       "game_id": "0022501095",
       "home_team": "DAL",
       "away_team": "MIN",
@@ -172,22 +172,22 @@
     },
     {
       "date": "2026-03-30",
-      "time": "15:45:10",
+      "time": "16:00:11",
       "game_id": "0022501096",
       "home_team": "UTA",
       "away_team": "CLE",
       "home_prob": "0.0872",
       "away_prob": "0.9128",
-      "poly_home_price": "0.0900",
-      "poly_away_price": "0.9200",
-      "home_ev": "-0.0306",
-      "away_ev": "-0.0079",
+      "poly_home_price": "0.0800",
+      "poly_away_price": "0.9300",
+      "home_ev": "0.0905",
+      "away_ev": "-0.0185",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-03-30",
-      "time": "15:45:11",
+      "time": "16:00:11",
       "game_id": "0022501097",
       "home_team": "OKC",
       "away_team": "DET",
@@ -202,7 +202,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "15:45:11",
+      "time": "16:00:12",
       "game_id": "0022501098",
       "home_team": "LAL",
       "away_team": "WAS",
