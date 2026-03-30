@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T21:30:12.306952+00:00",
+  "last_updated": "2026-03-30T21:45:11.786754+00:00",
   "scoreboard": [
     {
       "game_id": "0022501091",
@@ -97,7 +97,7 @@
   "today_games": [
     {
       "date": "2026-03-30",
-      "time": "15:30:07",
+      "time": "15:45:07",
       "game_id": "0022501091",
       "home_team": "MIA",
       "away_team": "PHI",
@@ -112,22 +112,22 @@
     },
     {
       "date": "2026-03-30",
-      "time": "15:30:08",
+      "time": "15:45:07",
       "game_id": "0022501092",
       "home_team": "ATL",
       "away_team": "BOS",
-      "home_prob": "0.5668",
-      "away_prob": "0.4332",
+      "home_prob": "0.5570",
+      "away_prob": "0.4430",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "0.0121",
-      "away_ev": "-0.0372",
+      "home_ev": "-0.0054",
+      "away_ev": "-0.0155",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-03-30",
-      "time": "15:30:09",
+      "time": "15:45:08",
       "game_id": "0022501093",
       "home_team": "MEM",
       "away_team": "PHX",
@@ -142,7 +142,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "15:30:09",
+      "time": "15:45:09",
       "game_id": "0022501094",
       "home_team": "SAS",
       "away_team": "CHI",
@@ -157,22 +157,22 @@
     },
     {
       "date": "2026-03-30",
-      "time": "15:30:10",
+      "time": "15:45:09",
       "game_id": "0022501095",
       "home_team": "DAL",
       "away_team": "MIN",
       "home_prob": "0.2705",
       "away_prob": "0.7295",
-      "poly_home_price": "0.2700",
-      "poly_away_price": "0.7400",
-      "home_ev": "0.0018",
-      "away_ev": "-0.0142",
+      "poly_home_price": "0.2600",
+      "poly_away_price": "0.7500",
+      "home_ev": "0.0404",
+      "away_ev": "-0.0273",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-03-30",
-      "time": "15:30:11",
+      "time": "15:45:10",
       "game_id": "0022501096",
       "home_team": "UTA",
       "away_team": "CLE",
@@ -187,7 +187,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "15:30:11",
+      "time": "15:45:11",
       "game_id": "0022501097",
       "home_team": "OKC",
       "away_team": "DET",
@@ -202,7 +202,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "15:30:12",
+      "time": "15:45:11",
       "game_id": "0022501098",
       "home_team": "LAL",
       "away_team": "WAS",
