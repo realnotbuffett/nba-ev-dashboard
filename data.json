@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T17:00:11.925914+00:00",
+  "last_updated": "2026-03-31T17:15:10.263275+00:00",
   "scoreboard": [
     {
       "game_id": "0022501099",
@@ -86,7 +86,7 @@
   "today_games": [
     {
       "date": "2026-03-31",
-      "time": "11:00:08",
+      "time": "11:15:07",
       "game_id": "0022501099",
       "home_team": "ORL",
       "away_team": "PHX",
@@ -101,22 +101,22 @@
     },
     {
       "date": "2026-03-31",
-      "time": "11:00:09",
+      "time": "11:15:07",
       "game_id": "0022501100",
       "home_team": "BKN",
       "away_team": "CHA",
-      "home_prob": "0.0827",
-      "away_prob": "0.9173",
+      "home_prob": "0.0824",
+      "away_prob": "0.9176",
       "poly_home_price": "0.0700",
       "poly_away_price": "0.9400",
-      "home_ev": "0.1821",
-      "away_ev": "-0.0242",
+      "home_ev": "0.1766",
+      "away_ev": "-0.0238",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-03-31",
-      "time": "11:00:09",
+      "time": "11:15:07",
       "game_id": "0022500652",
       "home_team": "MIL",
       "away_team": "DAL",
@@ -131,22 +131,22 @@
     },
     {
       "date": "2026-03-31",
-      "time": "11:00:09",
+      "time": "11:15:08",
       "game_id": "0022501101",
       "home_team": "DET",
       "away_team": "TOR",
       "home_prob": "0.5764",
       "away_prob": "0.4236",
-      "poly_home_price": "0.5800",
-      "poly_away_price": "0.4300",
-      "home_ev": "-0.0061",
-      "away_ev": "-0.0150",
+      "poly_home_price": "0.5900",
+      "poly_away_price": "0.4200",
+      "home_ev": "-0.0230",
+      "away_ev": "0.0085",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-03-31",
-      "time": "11:00:10",
+      "time": "11:15:08",
       "game_id": "0022501102",
       "home_team": "HOU",
       "away_team": "NYK",
@@ -161,7 +161,7 @@
     },
     {
       "date": "2026-03-31",
-      "time": "11:00:11",
+      "time": "11:15:09",
       "game_id": "0022501103",
       "home_team": "LAL",
       "away_team": "CLE",
@@ -176,7 +176,7 @@
     },
     {
       "date": "2026-03-31",
-      "time": "11:00:11",
+      "time": "11:15:10",
       "game_id": "0022501104",
       "home_team": "LAC",
       "away_team": "POR",
