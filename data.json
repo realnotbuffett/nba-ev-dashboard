@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T21:15:13.410099+00:00",
+  "last_updated": "2026-04-01T21:30:12.965907+00:00",
   "scoreboard": [
     {
       "game_id": "0022501105",
@@ -108,7 +108,7 @@
   "today_games": [
     {
       "date": "2026-04-01",
-      "time": "15:15:08",
+      "time": "15:30:07",
       "game_id": "0022501105",
       "home_team": "WAS",
       "away_team": "PHI",
@@ -123,22 +123,22 @@
     },
     {
       "date": "2026-04-01",
-      "time": "15:15:08",
+      "time": "15:30:08",
       "game_id": "0022501107",
       "home_team": "ORL",
       "away_team": "ATL",
-      "home_prob": "0.4419",
-      "away_prob": "0.5581",
+      "home_prob": "0.4456",
+      "away_prob": "0.5544",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "-0.0180",
-      "away_ev": "-0.0034",
+      "home_ev": "-0.0098",
+      "away_ev": "-0.0099",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-01",
-      "time": "15:15:09",
+      "time": "15:30:09",
       "game_id": "0022501106",
       "home_team": "MIA",
       "away_team": "BOS",
@@ -153,7 +153,7 @@
     },
     {
       "date": "2026-04-01",
-      "time": "15:15:10",
+      "time": "15:30:09",
       "game_id": "0022501003",
       "home_team": "MEM",
       "away_team": "NYK",
@@ -168,7 +168,7 @@
     },
     {
       "date": "2026-04-01",
-      "time": "15:15:10",
+      "time": "15:30:10",
       "game_id": "0022501108",
       "home_team": "TOR",
       "away_team": "SAC",
@@ -183,7 +183,7 @@
     },
     {
       "date": "2026-04-01",
-      "time": "15:15:11",
+      "time": "15:30:11",
       "game_id": "0022501109",
       "home_team": "CHI",
       "away_team": "IND",
@@ -198,7 +198,7 @@
     },
     {
       "date": "2026-04-01",
-      "time": "15:15:12",
+      "time": "15:30:11",
       "game_id": "0022501110",
       "home_team": "HOU",
       "away_team": "MIL",
@@ -213,22 +213,22 @@
     },
     {
       "date": "2026-04-01",
-      "time": "15:15:12",
+      "time": "15:30:12",
       "game_id": "0022501112",
       "home_team": "UTA",
       "away_team": "DEN",
-      "home_prob": "0.0936",
-      "away_prob": "0.9064",
+      "home_prob": "0.0938",
+      "away_prob": "0.9062",
       "poly_home_price": "0.0800",
       "poly_away_price": "0.9300",
-      "home_ev": "0.1702",
-      "away_ev": "-0.0254",
+      "home_ev": "0.1722",
+      "away_ev": "-0.0256",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-01",
-      "time": "15:15:13",
+      "time": "15:30:12",
       "game_id": "0022501113",
       "home_team": "GSW",
       "away_team": "SAS",
