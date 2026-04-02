@@ -1,70 +1,48 @@
 {
-  "last_updated": "2026-04-02T02:15:04.838354+00:00",
+  "last_updated": "2026-04-02T02:30:03.968123+00:00",
   "scoreboard": [
-    {
-      "game_id": "0022501109",
-      "away": "IND",
-      "home": "CHI",
-      "away_score": 145,
-      "home_score": 126,
-      "state": "LIVE",
-      "period": 4,
-      "game_status_text": "Q4 :47.9",
-      "start_time": "2026-04-02T00:00:00Z"
-    },
     {
       "game_id": "0022501108",
       "away": "SAC",
       "home": "TOR",
-      "away_score": 108,
-      "home_score": 103,
+      "away_score": 116,
+      "home_score": 114,
       "state": "LIVE",
       "period": 4,
-      "game_status_text": "Q4 6:00",
+      "game_status_text": "Q4 1:40",
       "start_time": "2026-04-02T00:00:00Z"
     },
     {
       "game_id": "0022501112",
       "away": "DEN",
       "home": "UTA",
-      "away_score": 68,
-      "home_score": 54,
+      "away_score": 72,
+      "home_score": 62,
       "state": "LIVE",
-      "period": 2,
-      "game_status_text": "Half",
+      "period": 3,
+      "game_status_text": "Q3 9:00",
       "start_time": "2026-04-02T01:00:00Z"
     },
     {
       "game_id": "0022501003",
       "away": "NYK",
       "home": "MEM",
-      "away_score": 117,
-      "home_score": 108,
-      "state": "LIVE",
+      "away_score": 130,
+      "home_score": 119,
+      "state": "FINAL",
       "period": 4,
-      "game_status_text": "Q4 5:04",
-      "start_time": "2026-04-02T00:00:00Z"
-    },
-    {
-      "game_id": "0022501110",
-      "away": "MIL",
-      "home": "HOU",
-      "away_score": 111,
-      "home_score": 116,
-      "state": "LIVE",
-      "period": 4,
-      "game_status_text": "Q4 :30.5",
+      "game_status_text": "Final",
       "start_time": "2026-04-02T00:00:00Z"
     },
     {
       "game_id": "0022501113",
       "away": "SAS",
       "home": "GSW",
-      "away_score": 3,
-      "home_score": 0,
+      "away_score": 25,
+      "home_score": 11,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 10:55",
+      "game_status_text": "Q1 4:55",
       "start_time": "2026-04-02T02:00:00Z"
     },
     {
@@ -99,6 +77,28 @@
       "period": 4,
       "game_status_text": "Final",
       "start_time": "2026-04-01T23:30:00Z"
+    },
+    {
+      "game_id": "0022501109",
+      "away": "IND",
+      "home": "CHI",
+      "away_score": 145,
+      "home_score": 126,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final               ",
+      "start_time": "2026-04-02T00:00:00Z"
+    },
+    {
+      "game_id": "0022501110",
+      "away": "MIL",
+      "home": "HOU",
+      "away_score": 113,
+      "home_score": 119,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final               ",
+      "start_time": "2026-04-02T00:00:00Z"
     }
   ],
   "today": "2026-04-01",
