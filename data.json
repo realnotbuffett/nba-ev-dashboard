@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T19:15:10.407424+00:00",
+  "last_updated": "2026-04-02T19:30:10.007022+00:00",
   "scoreboard": [
     {
       "game_id": "0022501114",
@@ -75,22 +75,22 @@
   "today_games": [
     {
       "date": "2026-04-02",
-      "time": "13:15:07",
+      "time": "13:30:06",
       "game_id": "0022501114",
       "home_team": "CHA",
       "away_team": "PHX",
       "home_prob": "0.6705",
       "away_prob": "0.3295",
-      "poly_home_price": "0.6700",
-      "poly_away_price": "0.3400",
-      "home_ev": "0.0007",
-      "away_ev": "-0.0307",
+      "poly_home_price": "0.6800",
+      "poly_away_price": "0.3300",
+      "home_ev": "-0.0140",
+      "away_ev": "-0.0014",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-02",
-      "time": "13:15:07",
+      "time": "13:30:07",
       "game_id": "0022501115",
       "home_team": "DET",
       "away_team": "MIN",
@@ -105,7 +105,7 @@
     },
     {
       "date": "2026-04-02",
-      "time": "13:15:08",
+      "time": "13:30:08",
       "game_id": "0022501116",
       "home_team": "OKC",
       "away_team": "LAL",
@@ -120,7 +120,7 @@
     },
     {
       "date": "2026-04-02",
-      "time": "13:15:09",
+      "time": "13:30:08",
       "game_id": "0022501117",
       "home_team": "GSW",
       "away_team": "CLE",
@@ -135,31 +135,31 @@
     },
     {
       "date": "2026-04-02",
-      "time": "13:15:09",
+      "time": "13:30:09",
       "game_id": "0022501118",
       "home_team": "POR",
       "away_team": "NOP",
-      "home_prob": "0.6901",
-      "away_prob": "0.3099",
+      "home_prob": "0.6908",
+      "away_prob": "0.3092",
       "poly_home_price": "0.7000",
       "poly_away_price": "0.3100",
-      "home_ev": "-0.0141",
-      "away_ev": "-0.0004",
+      "home_ev": "-0.0132",
+      "away_ev": "-0.0025",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-02",
-      "time": "13:15:10",
+      "time": "13:30:10",
       "game_id": "0022501119",
       "home_team": "LAC",
       "away_team": "SAS",
-      "home_prob": "0.4025",
-      "away_prob": "0.5975",
+      "home_prob": "0.4049",
+      "away_prob": "0.5951",
       "poly_home_price": "0.4000",
       "poly_away_price": "0.6100",
-      "home_ev": "0.0062",
-      "away_ev": "-0.0204",
+      "home_ev": "0.0123",
+      "away_ev": "-0.0245",
       "bet_placed": "NO",
       "bet_side": ""
     }
