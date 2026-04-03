@@ -1,37 +1,37 @@
 {
-  "last_updated": "2026-04-03T02:15:05.104256+00:00",
+  "last_updated": "2026-04-03T02:30:06.498973+00:00",
   "scoreboard": [
     {
       "game_id": "0022501118",
       "away": "NOP",
       "home": "POR",
-      "away_score": 3,
-      "home_score": 6,
+      "away_score": 21,
+      "home_score": 22,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 10:47",
+      "game_status_text": "Q1 4:28",
       "start_time": "2026-04-03T02:00:00Z"
     },
     {
       "game_id": "0022501116",
       "away": "LAL",
       "home": "OKC",
-      "away_score": 21,
-      "home_score": 47,
+      "away_score": 37,
+      "home_score": 67,
       "state": "LIVE",
       "period": 2,
-      "game_status_text": "Q2 10:46",
+      "game_status_text": "Q2 5:04",
       "start_time": "2026-04-03T01:30:00Z"
     },
     {
       "game_id": "0022501117",
       "away": "CLE",
       "home": "GSW",
-      "away_score": 6,
-      "home_score": 8,
+      "away_score": 22,
+      "home_score": 22,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 9:11",
+      "game_status_text": "Q1 2:53",
       "start_time": "2026-04-03T02:00:00Z"
     },
     {
@@ -75,16 +75,16 @@
   "today_games": [
     {
       "date": "2026-04-02",
-      "time": "20:15:05",
+      "time": "20:30:06",
       "game_id": "0022501119",
       "home_team": "LAC",
       "away_team": "SAS",
-      "home_prob": "0.5544",
-      "away_prob": "0.4456",
-      "poly_home_price": "0.5500",
-      "poly_away_price": "0.4600",
-      "home_ev": "0.0081",
-      "away_ev": "-0.0314",
+      "home_prob": "0.5642",
+      "away_prob": "0.4358",
+      "poly_home_price": "0.5700",
+      "poly_away_price": "0.4400",
+      "home_ev": "-0.0101",
+      "away_ev": "-0.0096",
       "bet_placed": "NO",
       "bet_side": ""
     }
