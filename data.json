@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-04T23:15:04.029363+00:00",
+  "last_updated": "2026-04-04T23:30:04.260594+00:00",
   "scoreboard": [
     {
       "game_id": "0022501131",
       "away": "DET",
       "home": "PHI",
-      "away_score": 4,
-      "home_score": 6,
+      "away_score": 26,
+      "home_score": 21,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 10:04",
+      "game_status_text": "Q1 4:19",
       "start_time": "2026-04-04T23:00:00Z"
     },
     {
