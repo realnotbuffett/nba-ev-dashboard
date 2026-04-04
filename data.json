@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T22:45:05.069871+00:00",
+  "last_updated": "2026-04-04T23:00:05.561563+00:00",
   "scoreboard": [
     {
       "game_id": "0022501129",
@@ -42,16 +42,16 @@
   "today_games": [
     {
       "date": "2026-04-04",
-      "time": "16:45:05",
+      "time": "17:00:05",
       "game_id": "0022501131",
       "home_team": "PHI",
       "away_team": "DET",
-      "home_prob": "0.3936",
-      "away_prob": "0.6064",
+      "home_prob": "0.3980",
+      "away_prob": "0.6020",
       "poly_home_price": "0.3900",
       "poly_away_price": "0.6200",
-      "home_ev": "0.0093",
-      "away_ev": "-0.0220",
+      "home_ev": "0.0206",
+      "away_ev": "-0.0291",
       "bet_placed": "NO",
       "bet_side": ""
     }
