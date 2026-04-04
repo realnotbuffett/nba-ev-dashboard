@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-04-04T19:15:05.148722+00:00",
+  "last_updated": "2026-04-04T19:30:05.206779+00:00",
   "scoreboard": [
     {
       "game_id": "0022501129",
       "away": "WAS",
       "home": "MIA",
-      "away_score": 5,
-      "home_score": 7,
+      "away_score": 23,
+      "home_score": 21,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 10:15",
+      "game_status_text": "Q1 3:45",
       "start_time": "2026-04-04T19:00:00Z"
     },
     {
       "game_id": "0022501130",
       "away": "SAS",
       "home": "DEN",
-      "away_score": 5,
-      "home_score": 3,
+      "away_score": 27,
+      "home_score": 23,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 10:27",
+      "game_status_text": "Q1 3:33",
       "start_time": "2026-04-04T19:00:00Z"
     },
     {
@@ -42,7 +42,7 @@
   "today_games": [
     {
       "date": "2026-04-04",
-      "time": "13:15:05",
+      "time": "13:30:05",
       "game_id": "0022501131",
       "home_team": "PHI",
       "away_team": "DET",
