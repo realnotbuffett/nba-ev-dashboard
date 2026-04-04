@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-04T20:30:05.382852+00:00",
+  "last_updated": "2026-04-04T20:45:05.120524+00:00",
   "scoreboard": [
     {
       "game_id": "0022501129",
       "away": "WAS",
       "home": "MIA",
-      "away_score": 66,
-      "home_score": 91,
+      "away_score": 81,
+      "home_score": 112,
       "state": "LIVE",
       "period": 3,
-      "game_status_text": "Q3 9:02",
+      "game_status_text": "Q3 2:40",
       "start_time": "2026-04-04T19:00:00Z"
     },
     {
@@ -19,8 +19,8 @@
       "away_score": 72,
       "home_score": 65,
       "state": "LIVE",
-      "period": 2,
-      "game_status_text": "Half",
+      "period": 3,
+      "game_status_text": "Q3 9:32",
       "start_time": "2026-04-04T19:00:00Z"
     },
     {
@@ -42,16 +42,16 @@
   "today_games": [
     {
       "date": "2026-04-04",
-      "time": "14:30:05",
+      "time": "14:45:05",
       "game_id": "0022501131",
       "home_team": "PHI",
       "away_team": "DET",
-      "home_prob": "0.4271",
-      "away_prob": "0.5729",
+      "home_prob": "0.4332",
+      "away_prob": "0.5668",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "-0.0067",
-      "away_ev": "-0.0123",
+      "home_ev": "0.0076",
+      "away_ev": "-0.0228",
       "bet_placed": "NO",
       "bet_side": ""
     }
