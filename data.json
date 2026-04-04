@@ -1,6 +1,17 @@
 {
-  "last_updated": "2026-04-04T23:00:05.561563+00:00",
+  "last_updated": "2026-04-04T23:15:04.029363+00:00",
   "scoreboard": [
+    {
+      "game_id": "0022501131",
+      "away": "DET",
+      "home": "PHI",
+      "away_score": 4,
+      "home_score": 6,
+      "state": "LIVE",
+      "period": 1,
+      "game_status_text": "Q1 10:04",
+      "start_time": "2026-04-04T23:00:00Z"
+    },
     {
       "game_id": "0022501129",
       "away": "WAS",
@@ -22,40 +33,13 @@
       "period": 5,
       "game_status_text": "Final/OT",
       "start_time": "2026-04-04T19:00:00Z"
-    },
-    {
-      "game_id": "0022501131",
-      "away": "DET",
-      "home": "PHI",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
-      "period": 0,
-      "game_status_text": "7:00 pm ET",
-      "start_time": "2026-04-04T23:00:00Z"
     }
   ],
   "today": "2026-04-04",
   "mode": "LIVE",
   "bot_version": "NBA (Pinnacle)",
   "bets": [],
-  "today_games": [
-    {
-      "date": "2026-04-04",
-      "time": "17:00:05",
-      "game_id": "0022501131",
-      "home_team": "PHI",
-      "away_team": "DET",
-      "home_prob": "0.3980",
-      "away_prob": "0.6020",
-      "poly_home_price": "0.3900",
-      "poly_away_price": "0.6200",
-      "home_ev": "0.0206",
-      "away_ev": "-0.0291",
-      "bet_placed": "NO",
-      "bet_side": ""
-    }
-  ],
+  "today_games": [],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 0
