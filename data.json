@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T01:30:16.677377+00:00",
+  "last_updated": "2026-04-05T01:45:04.230622+00:00",
   "scoreboard": [
     {
       "game_id": "0022501129",
@@ -31,7 +31,7 @@
       "home_score": 93,
       "state": "FINAL",
       "period": 4,
-      "game_status_text": "Final               ",
+      "game_status_text": "Final",
       "start_time": "2026-04-04T23:00:00Z"
     }
   ],
