@@ -1,48 +1,48 @@
 {
-  "last_updated": "2026-04-05T19:45:10.394211+00:00",
+  "last_updated": "2026-04-05T20:00:11.768434+00:00",
   "scoreboard": [
     {
       "game_id": "0022501132",
       "away": "TOR",
       "home": "BOS",
-      "away_score": 2,
-      "home_score": 6,
+      "away_score": 19,
+      "home_score": 22,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 9:37",
+      "game_status_text": "Q1 3:09",
       "start_time": "2026-04-05T19:30:00Z"
     },
     {
       "game_id": "0022501135",
       "away": "MEM",
       "home": "MIL",
-      "away_score": 9,
-      "home_score": 3,
+      "away_score": 18,
+      "home_score": 23,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 9:09",
+      "game_status_text": "Q1 3:43",
       "start_time": "2026-04-05T19:30:00Z"
     },
     {
       "game_id": "0022501133",
       "away": "WAS",
       "home": "BKN",
-      "away_score": 3,
-      "home_score": 6,
+      "away_score": 14,
+      "home_score": 29,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 9:34",
+      "game_status_text": "Q1 2:49",
       "start_time": "2026-04-05T19:30:00Z"
     },
     {
       "game_id": "0022501134",
       "away": "PHX",
       "home": "CHI",
-      "away_score": 5,
-      "home_score": 5,
+      "away_score": 24,
+      "home_score": 25,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 8:45",
+      "game_status_text": "Q1 1:57",
       "start_time": "2026-04-05T19:30:00Z"
     },
     {
@@ -146,7 +146,7 @@
   "today_games": [
     {
       "date": "2026-04-05",
-      "time": "13:45:06",
+      "time": "14:00:07",
       "game_id": "0022501136",
       "home_team": "CLE",
       "away_team": "IND",
@@ -161,7 +161,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "13:45:07",
+      "time": "14:00:08",
       "game_id": "0022501137",
       "home_team": "MIN",
       "away_team": "CHA",
@@ -176,7 +176,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "13:45:07",
+      "time": "14:00:09",
       "game_id": "0022501138",
       "home_team": "NOP",
       "away_team": "ORL",
@@ -191,7 +191,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "13:45:08",
+      "time": "14:00:09",
       "game_id": "0022501139",
       "home_team": "OKC",
       "away_team": "UTA",
@@ -206,7 +206,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "13:45:09",
+      "time": "14:00:10",
       "game_id": "0022501140",
       "home_team": "DAL",
       "away_team": "LAL",
@@ -221,31 +221,31 @@
     },
     {
       "date": "2026-04-05",
-      "time": "13:45:09",
+      "time": "14:00:11",
       "game_id": "0022501141",
       "home_team": "SAC",
       "away_team": "LAC",
-      "home_prob": "0.1469",
-      "away_prob": "0.8531",
+      "home_prob": "0.1471",
+      "away_prob": "0.8529",
       "poly_home_price": "0.1400",
       "poly_away_price": "0.8700",
-      "home_ev": "0.0493",
-      "away_ev": "-0.0194",
+      "home_ev": "0.0507",
+      "away_ev": "-0.0197",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-05",
-      "time": "13:45:10",
+      "time": "14:00:11",
       "game_id": "0022501142",
       "home_team": "GSW",
       "away_team": "HOU",
-      "home_prob": "0.4039",
-      "away_prob": "0.5961",
+      "home_prob": "0.4015",
+      "away_prob": "0.5985",
       "poly_home_price": "0.4000",
       "poly_away_price": "0.6100",
-      "home_ev": "0.0099",
-      "away_ev": "-0.0229",
+      "home_ev": "0.0037",
+      "away_ev": "-0.0188",
       "bet_placed": "NO",
       "bet_side": ""
     }
