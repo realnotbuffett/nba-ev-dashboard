@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-04-06T00:15:06.147782+00:00",
+  "last_updated": "2026-04-06T00:30:06.075667+00:00",
   "scoreboard": [
     {
       "game_id": "0022501138",
       "away": "ORL",
       "home": "NOP",
-      "away_score": 52,
-      "home_score": 60,
+      "away_score": 56,
+      "home_score": 65,
       "state": "LIVE",
-      "period": 2,
-      "game_status_text": "Half",
+      "period": 3,
+      "game_status_text": "Q3 9:50",
       "start_time": "2026-04-05T23:00:00Z"
     },
     {
       "game_id": "0022501136",
       "away": "IND",
       "home": "CLE",
-      "away_score": 102,
-      "home_score": 115,
-      "state": "LIVE",
+      "away_score": 108,
+      "home_score": 117,
+      "state": "FINAL",
       "period": 4,
-      "game_status_text": "Q4 3:12",
+      "game_status_text": "Final",
       "start_time": "2026-04-05T22:00:00Z"
     },
     {
       "game_id": "0022501137",
       "away": "CHA",
       "home": "MIN",
-      "away_score": 55,
-      "home_score": 60,
+      "away_score": 71,
+      "home_score": 66,
       "state": "LIVE",
-      "period": 2,
-      "game_status_text": "Half",
+      "period": 3,
+      "game_status_text": "Q3 7:49",
       "start_time": "2026-04-05T23:00:00Z"
     },
     {
       "game_id": "0022501139",
       "away": "UTA",
       "home": "OKC",
-      "away_score": 54,
-      "home_score": 75,
+      "away_score": 63,
+      "home_score": 99,
       "state": "LIVE",
-      "period": 2,
-      "game_status_text": "Half",
+      "period": 3,
+      "game_status_text": "Q3 6:48",
       "start_time": "2026-04-05T23:00:00Z"
     },
     {
       "game_id": "0022501140",
       "away": "LAL",
       "home": "DAL",
-      "away_score": 30,
-      "home_score": 48,
+      "away_score": 49,
+      "home_score": 60,
       "state": "LIVE",
       "period": 2,
-      "game_status_text": "Q2 10:40",
+      "game_status_text": "Q2 4:22",
       "start_time": "2026-04-05T23:30:00Z"
     },
     {
@@ -146,7 +146,7 @@
   "today_games": [
     {
       "date": "2026-04-05",
-      "time": "18:15:05",
+      "time": "18:30:05",
       "game_id": "0022501141",
       "home_team": "SAC",
       "away_team": "LAC",
@@ -161,7 +161,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "18:15:06",
+      "time": "18:30:06",
       "game_id": "0022501142",
       "home_team": "GSW",
       "away_team": "HOU",
