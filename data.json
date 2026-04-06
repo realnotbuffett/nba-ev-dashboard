@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T22:30:09.028652+00:00",
+  "last_updated": "2026-04-06T22:45:09.221520+00:00",
   "scoreboard": [
     {
       "game_id": "0022501143",
@@ -80,37 +80,37 @@
   "today_games": [
     {
       "date": "2026-04-06",
-      "time": "16:30:06",
+      "time": "16:45:06",
       "game_id": "0022501143",
       "home_team": "ATL",
       "away_team": "NYK",
-      "home_prob": "0.5269",
-      "away_prob": "0.4731",
+      "home_prob": "0.5281",
+      "away_prob": "0.4719",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0059",
-      "away_ev": "-0.0143",
+      "home_ev": "-0.0037",
+      "away_ev": "-0.0168",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-06",
-      "time": "16:30:07",
+      "time": "16:45:07",
       "game_id": "0022501144",
       "home_team": "ORL",
       "away_team": "DET",
       "home_prob": "0.4719",
       "away_prob": "0.5281",
-      "poly_home_price": "0.4700",
-      "poly_away_price": "0.5400",
-      "home_ev": "0.0041",
-      "away_ev": "-0.0221",
+      "poly_home_price": "0.4800",
+      "poly_away_price": "0.5300",
+      "home_ev": "-0.0168",
+      "away_ev": "-0.0037",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-06",
-      "time": "16:30:07",
+      "time": "16:45:07",
       "game_id": "0022501145",
       "home_team": "MEM",
       "away_team": "CLE",
@@ -125,7 +125,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "16:30:08",
+      "time": "16:45:08",
       "game_id": "0022501146",
       "home_team": "SAS",
       "away_team": "PHI",
@@ -140,7 +140,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "16:30:09",
+      "time": "16:45:09",
       "game_id": "0022501147",
       "home_team": "DEN",
       "away_team": "POR",
