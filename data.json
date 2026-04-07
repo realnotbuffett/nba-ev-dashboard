@@ -1,27 +1,16 @@
 {
-  "last_updated": "2026-04-07T02:30:05.596597+00:00",
+  "last_updated": "2026-04-07T02:45:05.997080+00:00",
   "scoreboard": [
     {
       "game_id": "0022501147",
       "away": "POR",
       "home": "DEN",
-      "away_score": 72,
-      "home_score": 59,
+      "away_score": 92,
+      "home_score": 78,
       "state": "LIVE",
       "period": 3,
-      "game_status_text": "Q3 11:22",
+      "game_status_text": "Q3 3:13",
       "start_time": "2026-04-07T01:00:00Z"
-    },
-    {
-      "game_id": "0022501146",
-      "away": "PHI",
-      "home": "SAS",
-      "away_score": 102,
-      "home_score": 113,
-      "state": "LIVE",
-      "period": 4,
-      "game_status_text": "Q4 :56.5",
-      "start_time": "2026-04-07T00:00:00Z"
     },
     {
       "game_id": "0022501143",
@@ -51,6 +40,17 @@
       "home": "MEM",
       "away_score": 142,
       "home_score": 126,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-07T00:00:00Z"
+    },
+    {
+      "game_id": "0022501146",
+      "away": "PHI",
+      "home": "SAS",
+      "away_score": 102,
+      "home_score": 115,
       "state": "FINAL",
       "period": 4,
       "game_status_text": "Final               ",
