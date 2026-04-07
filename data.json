@@ -1,17 +1,6 @@
 {
-  "last_updated": "2026-04-07T02:45:05.997080+00:00",
+  "last_updated": "2026-04-07T16:00:04.027472+00:00",
   "scoreboard": [
-    {
-      "game_id": "0022501147",
-      "away": "POR",
-      "home": "DEN",
-      "away_score": 92,
-      "home_score": 78,
-      "state": "LIVE",
-      "period": 3,
-      "game_status_text": "Q3 3:13",
-      "start_time": "2026-04-07T01:00:00Z"
-    },
     {
       "game_id": "0022501143",
       "away": "NYK",
@@ -53,11 +42,22 @@
       "home_score": 115,
       "state": "FINAL",
       "period": 4,
-      "game_status_text": "Final               ",
+      "game_status_text": "Final",
       "start_time": "2026-04-07T00:00:00Z"
+    },
+    {
+      "game_id": "0022501147",
+      "away": "POR",
+      "home": "DEN",
+      "away_score": 132,
+      "home_score": 137,
+      "state": "FINAL",
+      "period": 5,
+      "game_status_text": "Final/OT",
+      "start_time": "2026-04-07T01:00:00Z"
     }
   ],
-  "today": "2026-04-06",
+  "today": "2026-04-07",
   "mode": "LIVE",
   "bot_version": "NBA (Pinnacle)",
   "bets": [
