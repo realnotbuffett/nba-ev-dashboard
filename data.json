@@ -1,48 +1,48 @@
 {
-  "last_updated": "2026-04-07T00:15:05.148501+00:00",
+  "last_updated": "2026-04-07T00:30:05.272483+00:00",
   "scoreboard": [
     {
       "game_id": "0022501144",
       "away": "DET",
       "home": "ORL",
-      "away_score": 49,
-      "home_score": 61,
-      "state": "LIVE",
-      "period": 2,
-      "game_status_text": "Q2 1:56",
-      "start_time": "2026-04-06T23:00:00Z"
-    },
-    {
-      "game_id": "0022501145",
-      "away": "CLE",
-      "home": "MEM",
-      "away_score": 7,
-      "home_score": 8,
-      "state": "LIVE",
-      "period": 1,
-      "game_status_text": "Q1 9:02",
-      "start_time": "2026-04-07T00:00:00Z"
-    },
-    {
-      "game_id": "0022501143",
-      "away": "NYK",
-      "home": "ATL",
-      "away_score": 53,
-      "home_score": 57,
+      "away_score": 55,
+      "home_score": 69,
       "state": "LIVE",
       "period": 2,
       "game_status_text": "Half",
       "start_time": "2026-04-06T23:00:00Z"
     },
     {
+      "game_id": "0022501145",
+      "away": "CLE",
+      "home": "MEM",
+      "away_score": 20,
+      "home_score": 27,
+      "state": "LIVE",
+      "period": 1,
+      "game_status_text": "Q1 3:02",
+      "start_time": "2026-04-07T00:00:00Z"
+    },
+    {
+      "game_id": "0022501143",
+      "away": "NYK",
+      "home": "ATL",
+      "away_score": 55,
+      "home_score": 57,
+      "state": "LIVE",
+      "period": 3,
+      "game_status_text": "Q3 10:33",
+      "start_time": "2026-04-06T23:00:00Z"
+    },
+    {
       "game_id": "0022501146",
       "away": "PHI",
       "home": "SAS",
-      "away_score": 6,
-      "home_score": 5,
+      "away_score": 24,
+      "home_score": 22,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 9:46",
+      "game_status_text": "Q1 3:08",
       "start_time": "2026-04-07T00:00:00Z"
     },
     {
@@ -80,16 +80,16 @@
   "today_games": [
     {
       "date": "2026-04-06",
-      "time": "18:15:05",
+      "time": "18:30:05",
       "game_id": "0022501147",
       "home_team": "DEN",
       "away_team": "POR",
       "home_prob": "0.7319",
       "away_prob": "0.2681",
-      "poly_home_price": "0.7500",
-      "poly_away_price": "0.2600",
-      "home_ev": "-0.0242",
-      "away_ev": "0.0313",
+      "poly_home_price": "0.7400",
+      "poly_away_price": "0.2700",
+      "home_ev": "-0.0110",
+      "away_ev": "-0.0069",
       "bet_placed": "NO",
       "bet_side": ""
     }
