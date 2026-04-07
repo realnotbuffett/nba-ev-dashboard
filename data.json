@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T20:30:13.996135+00:00",
+  "last_updated": "2026-04-07T20:45:14.154072+00:00",
   "scoreboard": [
     {
       "game_id": "0022501148",
@@ -135,7 +135,7 @@
   "today_games": [
     {
       "date": "2026-04-07",
-      "time": "14:30:08",
+      "time": "14:45:08",
       "game_id": "0022501148",
       "home_team": "WAS",
       "away_team": "CHI",
@@ -150,7 +150,7 @@
     },
     {
       "date": "2026-04-07",
-      "time": "14:30:08",
+      "time": "14:45:08",
       "game_id": "0022501152",
       "home_team": "IND",
       "away_team": "MIN",
@@ -165,7 +165,7 @@
     },
     {
       "date": "2026-04-07",
-      "time": "14:30:09",
+      "time": "14:45:09",
       "game_id": "0022501150",
       "home_team": "BKN",
       "away_team": "MIL",
@@ -180,7 +180,7 @@
     },
     {
       "date": "2026-04-07",
-      "time": "14:30:10",
+      "time": "14:45:10",
       "game_id": "0022501151",
       "home_team": "TOR",
       "away_team": "MIA",
@@ -195,7 +195,7 @@
     },
     {
       "date": "2026-04-07",
-      "time": "14:30:10",
+      "time": "14:45:10",
       "game_id": "0022501149",
       "home_team": "BOS",
       "away_team": "CHA",
@@ -210,7 +210,7 @@
     },
     {
       "date": "2026-04-07",
-      "time": "14:30:11",
+      "time": "14:45:11",
       "game_id": "0022501153",
       "home_team": "NOP",
       "away_team": "UTA",
@@ -225,22 +225,22 @@
     },
     {
       "date": "2026-04-07",
-      "time": "14:30:12",
+      "time": "14:45:12",
       "game_id": "0022501154",
       "home_team": "GSW",
       "away_team": "SAC",
-      "home_prob": "0.8807",
-      "away_prob": "0.1193",
+      "home_prob": "0.8799",
+      "away_prob": "0.1201",
       "poly_home_price": "0.8900",
       "poly_away_price": "0.1200",
-      "home_ev": "-0.0105",
-      "away_ev": "-0.0058",
+      "home_ev": "-0.0113",
+      "away_ev": "0.0007",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-07",
-      "time": "14:30:12",
+      "time": "14:45:12",
       "game_id": "0022501155",
       "home_team": "LAL",
       "away_team": "OKC",
@@ -255,7 +255,7 @@
     },
     {
       "date": "2026-04-07",
-      "time": "14:30:13",
+      "time": "14:45:13",
       "game_id": "0022501156",
       "home_team": "LAC",
       "away_team": "DAL",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-04-07",
-      "time": "14:30:13",
+      "time": "14:45:14",
       "game_id": "0022501157",
       "home_team": "PHX",
       "away_team": "HOU",
