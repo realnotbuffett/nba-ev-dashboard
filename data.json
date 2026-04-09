@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T20:15:09.646910+00:00",
+  "last_updated": "2026-04-09T20:30:09.846378+00:00",
   "scoreboard": [
     {
       "game_id": "0022501165",
@@ -91,7 +91,7 @@
   "today_games": [
     {
       "date": "2026-04-09",
-      "time": "14:15:06",
+      "time": "14:30:06",
       "game_id": "0022501165",
       "home_team": "TOR",
       "away_team": "MIA",
@@ -106,7 +106,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "14:15:07",
+      "time": "14:30:07",
       "game_id": "0022501166",
       "home_team": "WAS",
       "away_team": "CHI",
@@ -121,7 +121,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "14:15:07",
+      "time": "14:30:07",
       "game_id": "0022501167",
       "home_team": "BKN",
       "away_team": "IND",
@@ -136,7 +136,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "14:15:08",
+      "time": "14:30:08",
       "game_id": "0022501168",
       "home_team": "NYK",
       "away_team": "BOS",
@@ -151,31 +151,31 @@
     },
     {
       "date": "2026-04-09",
-      "time": "14:15:09",
+      "time": "14:30:09",
       "game_id": "0022501169",
       "home_team": "HOU",
       "away_team": "PHI",
       "home_prob": "0.6697",
       "away_prob": "0.3303",
-      "poly_home_price": "0.6900",
-      "poly_away_price": "0.3200",
-      "home_ev": "-0.0294",
-      "away_ev": "0.0322",
+      "poly_home_price": "0.7000",
+      "poly_away_price": "0.3100",
+      "home_ev": "-0.0433",
+      "away_ev": "0.0655",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-09",
-      "time": "14:15:09",
+      "time": "14:30:09",
       "game_id": "0022501170",
       "home_team": "GSW",
       "away_team": "LAL",
-      "home_prob": "0.5570",
-      "away_prob": "0.4430",
+      "home_prob": "0.5581",
+      "away_prob": "0.4419",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "0.0127",
-      "away_ev": "-0.0369",
+      "home_ev": "0.0147",
+      "away_ev": "-0.0393",
       "bet_placed": "NO",
       "bet_side": ""
     }
