@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T21:00:09.975011+00:00",
+  "last_updated": "2026-04-09T21:15:09.927239+00:00",
   "scoreboard": [
     {
       "game_id": "0022501165",
@@ -91,37 +91,37 @@
   "today_games": [
     {
       "date": "2026-04-09",
-      "time": "15:00:06",
+      "time": "15:15:06",
       "game_id": "0022501165",
       "home_team": "TOR",
       "away_team": "MIA",
-      "home_prob": "0.6000",
-      "away_prob": "0.4000",
+      "home_prob": "0.6010",
+      "away_prob": "0.3990",
       "poly_home_price": "0.6200",
       "poly_away_price": "0.3900",
-      "home_ev": "-0.0323",
-      "away_ev": "0.0256",
+      "home_ev": "-0.0307",
+      "away_ev": "0.0231",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-09",
-      "time": "15:00:07",
+      "time": "15:15:07",
       "game_id": "0022501166",
       "home_team": "WAS",
       "away_team": "CHI",
       "home_prob": "0.3156",
       "away_prob": "0.6844",
-      "poly_home_price": "0.3100",
-      "poly_away_price": "0.7000",
-      "home_ev": "0.0179",
-      "away_ev": "-0.0222",
+      "poly_home_price": "0.3000",
+      "poly_away_price": "0.7100",
+      "home_ev": "0.0519",
+      "away_ev": "-0.0360",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-09",
-      "time": "15:00:08",
+      "time": "15:15:08",
       "game_id": "0022501167",
       "home_team": "BKN",
       "away_team": "IND",
@@ -136,7 +136,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "15:00:08",
+      "time": "15:15:08",
       "game_id": "0022501168",
       "home_team": "NYK",
       "away_team": "BOS",
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "15:00:09",
+      "time": "15:15:09",
       "game_id": "0022501169",
       "home_team": "HOU",
       "away_team": "PHI",
@@ -166,7 +166,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "15:00:09",
+      "time": "15:15:09",
       "game_id": "0022501170",
       "home_team": "GSW",
       "away_team": "LAL",
