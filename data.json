@@ -1,27 +1,16 @@
 {
-  "last_updated": "2026-04-10T02:30:04.256680+00:00",
+  "last_updated": "2026-04-10T02:45:04.149320+00:00",
   "scoreboard": [
     {
       "game_id": "0022501170",
       "away": "LAL",
       "home": "GSW",
-      "away_score": 23,
-      "home_score": 17,
+      "away_score": 28,
+      "home_score": 32,
       "state": "LIVE",
-      "period": 1,
-      "game_status_text": "Q1 2:24",
+      "period": 2,
+      "game_status_text": "Q2 10:17",
       "start_time": "2026-04-10T02:00:00Z"
-    },
-    {
-      "game_id": "0022501169",
-      "away": "PHI",
-      "home": "HOU",
-      "away_score": 102,
-      "home_score": 113,
-      "state": "FINAL",
-      "period": 4,
-      "game_status_text": "Final",
-      "start_time": "2026-04-10T00:00:00Z"
     },
     {
       "game_id": "0022501165",
@@ -66,6 +55,17 @@
       "period": 4,
       "game_status_text": "Final",
       "start_time": "2026-04-09T23:30:00Z"
+    },
+    {
+      "game_id": "0022501169",
+      "away": "PHI",
+      "home": "HOU",
+      "away_score": 102,
+      "home_score": 113,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final               ",
+      "start_time": "2026-04-10T00:00:00Z"
     }
   ],
   "today": "2026-04-09",
