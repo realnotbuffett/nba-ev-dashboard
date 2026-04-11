@@ -1,92 +1,59 @@
 {
-  "last_updated": "2026-04-11T02:15:05.328452+00:00",
+  "last_updated": "2026-04-11T02:30:05.631990+00:00",
   "scoreboard": [
     {
       "game_id": "0022501178",
       "away": "MIN",
       "home": "HOU",
-      "away_score": 39,
-      "home_score": 38,
+      "away_score": 59,
+      "home_score": 59,
       "state": "LIVE",
       "period": 2,
-      "game_status_text": "Q2 11:35",
+      "game_status_text": "Q2 4:44",
       "start_time": "2026-04-11T01:30:00Z"
-    },
-    {
-      "game_id": "0022501179",
-      "away": "BKN",
-      "home": "MIL",
-      "away_score": 108,
-      "home_score": 124,
-      "state": "LIVE",
-      "period": 4,
-      "game_status_text": "Q4 :25.6",
-      "start_time": "2026-04-11T00:00:00Z"
     },
     {
       "game_id": "0022501184",
       "away": "GSW",
       "home": "SAC",
-      "away_score": 6,
-      "home_score": 3,
+      "away_score": 17,
+      "home_score": 17,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 10:16",
+      "game_status_text": "Q1 5:47",
       "start_time": "2026-04-11T02:00:00Z"
-    },
-    {
-      "game_id": "0022501180",
-      "away": "DAL",
-      "home": "SAS",
-      "away_score": 120,
-      "home_score": 139,
-      "state": "LIVE",
-      "period": 4,
-      "game_status_text": "Q4 :00.0",
-      "start_time": "2026-04-11T00:00:00Z"
     },
     {
       "game_id": "0022501182",
       "away": "OKC",
       "home": "DEN",
-      "away_score": 51,
-      "home_score": 59,
+      "away_score": 70,
+      "home_score": 77,
       "state": "LIVE",
-      "period": 2,
-      "game_status_text": "Half",
+      "period": 3,
+      "game_status_text": "Q3 5:09",
       "start_time": "2026-04-11T01:00:00Z"
     },
     {
       "game_id": "0022501183",
       "away": "LAC",
       "home": "POR",
-      "away_score": 0,
-      "home_score": 2,
+      "away_score": 17,
+      "home_score": 14,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 11:39",
+      "game_status_text": "Q1 6:06",
       "start_time": "2026-04-11T02:00:00Z"
-    },
-    {
-      "game_id": "0022501177",
-      "away": "ORL",
-      "home": "CHI",
-      "away_score": 119,
-      "home_score": 97,
-      "state": "LIVE",
-      "period": 4,
-      "game_status_text": "Q4 2:52",
-      "start_time": "2026-04-11T00:00:00Z"
     },
     {
       "game_id": "0022501181",
       "away": "MEM",
       "home": "UTA",
-      "away_score": 37,
-      "home_score": 45,
+      "away_score": 48,
+      "home_score": 70,
       "state": "LIVE",
       "period": 2,
-      "game_status_text": "Q2 7:48",
+      "game_status_text": "Q2 2:00",
       "start_time": "2026-04-11T01:30:00Z"
     },
     {
@@ -156,6 +123,39 @@
       "start_time": "2026-04-10T23:30:00Z"
     },
     {
+      "game_id": "0022501177",
+      "away": "ORL",
+      "home": "CHI",
+      "away_score": 127,
+      "home_score": 103,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final               ",
+      "start_time": "2026-04-11T00:00:00Z"
+    },
+    {
+      "game_id": "0022501179",
+      "away": "BKN",
+      "home": "MIL",
+      "away_score": 108,
+      "home_score": 125,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final               ",
+      "start_time": "2026-04-11T00:00:00Z"
+    },
+    {
+      "game_id": "0022501180",
+      "away": "DAL",
+      "home": "SAS",
+      "away_score": 120,
+      "home_score": 139,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final               ",
+      "start_time": "2026-04-11T00:00:00Z"
+    },
+    {
       "game_id": "0022501185",
       "away": "PHX",
       "home": "LAL",
@@ -190,16 +190,16 @@
   "today_games": [
     {
       "date": "2026-04-10",
-      "time": "20:15:05",
+      "time": "20:30:05",
       "game_id": "0022501185",
       "home_team": "LAL",
       "away_team": "PHX",
-      "home_prob": "0.4467",
-      "away_prob": "0.5533",
+      "home_prob": "0.4518",
+      "away_prob": "0.5482",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "-0.0073",
-      "away_ev": "-0.0120",
+      "home_ev": "0.0039",
+      "away_ev": "-0.0210",
       "bet_placed": "NO",
       "bet_side": ""
     }
