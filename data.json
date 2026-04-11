@@ -1,72 +1,6 @@
 {
-  "last_updated": "2026-04-11T02:45:04.185875+00:00",
+  "last_updated": "2026-04-11T16:00:03.719321+00:00",
   "scoreboard": [
-    {
-      "game_id": "0022501178",
-      "away": "MIN",
-      "home": "HOU",
-      "away_score": 69,
-      "home_score": 73,
-      "state": "LIVE",
-      "period": 2,
-      "game_status_text": "Half",
-      "start_time": "2026-04-11T01:30:00Z"
-    },
-    {
-      "game_id": "0022501184",
-      "away": "GSW",
-      "home": "SAC",
-      "away_score": 31,
-      "home_score": 34,
-      "state": "LIVE",
-      "period": 2,
-      "game_status_text": "Q2 10:20",
-      "start_time": "2026-04-11T02:00:00Z"
-    },
-    {
-      "game_id": "0022501182",
-      "away": "OKC",
-      "home": "DEN",
-      "away_score": 85,
-      "home_score": 90,
-      "state": "LIVE",
-      "period": 3,
-      "game_status_text": "END Q3",
-      "start_time": "2026-04-11T01:00:00Z"
-    },
-    {
-      "game_id": "0022501185",
-      "away": "PHX",
-      "home": "LAL",
-      "away_score": 8,
-      "home_score": 10,
-      "state": "LIVE",
-      "period": 1,
-      "game_status_text": "Q1 9:05",
-      "start_time": "2026-04-11T02:30:00Z"
-    },
-    {
-      "game_id": "0022501183",
-      "away": "LAC",
-      "home": "POR",
-      "away_score": 26,
-      "home_score": 38,
-      "state": "LIVE",
-      "period": 2,
-      "game_status_text": "Q2 10:25",
-      "start_time": "2026-04-11T02:00:00Z"
-    },
-    {
-      "game_id": "0022501181",
-      "away": "MEM",
-      "home": "UTA",
-      "away_score": 52,
-      "home_score": 74,
-      "state": "LIVE",
-      "period": 2,
-      "game_status_text": "Half",
-      "start_time": "2026-04-11T01:30:00Z"
-    },
     {
       "game_id": "0022501171",
       "away": "DET",
@@ -165,9 +99,75 @@
       "period": 4,
       "game_status_text": "Final",
       "start_time": "2026-04-11T00:00:00Z"
+    },
+    {
+      "game_id": "0022501182",
+      "away": "OKC",
+      "home": "DEN",
+      "away_score": 107,
+      "home_score": 127,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-11T01:00:00Z"
+    },
+    {
+      "game_id": "0022501178",
+      "away": "MIN",
+      "home": "HOU",
+      "away_score": 136,
+      "home_score": 132,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-11T01:30:00Z"
+    },
+    {
+      "game_id": "0022501181",
+      "away": "MEM",
+      "home": "UTA",
+      "away_score": 101,
+      "home_score": 147,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-11T01:30:00Z"
+    },
+    {
+      "game_id": "0022501183",
+      "away": "LAC",
+      "home": "POR",
+      "away_score": 97,
+      "home_score": 116,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-11T02:00:00Z"
+    },
+    {
+      "game_id": "0022501184",
+      "away": "GSW",
+      "home": "SAC",
+      "away_score": 118,
+      "home_score": 124,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-11T02:00:00Z"
+    },
+    {
+      "game_id": "0022501185",
+      "away": "PHX",
+      "home": "LAL",
+      "away_score": 73,
+      "home_score": 101,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-11T02:30:00Z"
     }
   ],
-  "today": "2026-04-10",
+  "today": "2026-04-11",
   "mode": "LIVE",
   "bot_version": "NBA (Pinnacle)",
   "bets": [
