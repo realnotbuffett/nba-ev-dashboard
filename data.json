@@ -1,83 +1,6 @@
 {
-  "last_updated": "2026-04-13T02:45:04.167629+00:00",
+  "last_updated": "2026-04-13T16:00:03.817695+00:00",
   "scoreboard": [
-    {
-      "game_id": "0022501197",
-      "away": "DEN",
-      "home": "SAS",
-      "away_score": 122,
-      "home_score": 110,
-      "state": "LIVE",
-      "period": 4,
-      "game_status_text": "Q4 3:48",
-      "start_time": "2026-04-13T00:30:00Z"
-    },
-    {
-      "game_id": "0022501194",
-      "away": "MEM",
-      "home": "HOU",
-      "away_score": 101,
-      "home_score": 132,
-      "state": "FINAL",
-      "period": 4,
-      "game_status_text": "Final",
-      "start_time": "2026-04-13T00:30:00Z"
-    },
-    {
-      "game_id": "0022501195",
-      "away": "NOP",
-      "home": "MIN",
-      "away_score": 102,
-      "home_score": 112,
-      "state": "LIVE",
-      "period": 4,
-      "game_status_text": "Q4 6:13",
-      "start_time": "2026-04-13T00:30:00Z"
-    },
-    {
-      "game_id": "0022501200",
-      "away": "SAC",
-      "home": "POR",
-      "away_score": 104,
-      "home_score": 118,
-      "state": "LIVE",
-      "period": 4,
-      "game_status_text": "Q4 2:49",
-      "start_time": "2026-04-13T00:30:00Z"
-    },
-    {
-      "game_id": "0022501198",
-      "away": "UTA",
-      "home": "LAL",
-      "away_score": 99,
-      "home_score": 127,
-      "state": "LIVE",
-      "period": 4,
-      "game_status_text": "Q4 2:23",
-      "start_time": "2026-04-13T00:30:00Z"
-    },
-    {
-      "game_id": "0022501199",
-      "away": "GSW",
-      "home": "LAC",
-      "away_score": 93,
-      "home_score": 103,
-      "state": "LIVE",
-      "period": 4,
-      "game_status_text": "Q4 4:26",
-      "start_time": "2026-04-13T00:30:00Z"
-    },
-    {
-      "game_id": "0022501193",
-      "away": "CHI",
-      "home": "DAL",
-      "away_score": 119,
-      "home_score": 139,
-      "state": "LIVE",
-      "period": 4,
-      "game_status_text": "Q4 2:13",
-      "start_time": "2026-04-13T00:30:00Z"
-    },
     {
       "game_id": "0022501186",
       "away": "ORL",
@@ -156,6 +79,39 @@
       "start_time": "2026-04-12T22:00:00Z"
     },
     {
+      "game_id": "0022501193",
+      "away": "CHI",
+      "home": "DAL",
+      "away_score": 128,
+      "home_score": 149,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-13T00:30:00Z"
+    },
+    {
+      "game_id": "0022501194",
+      "away": "MEM",
+      "home": "HOU",
+      "away_score": 101,
+      "home_score": 132,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-13T00:30:00Z"
+    },
+    {
+      "game_id": "0022501195",
+      "away": "NOP",
+      "home": "MIN",
+      "away_score": 126,
+      "home_score": 132,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-13T00:30:00Z"
+    },
+    {
       "game_id": "0022501196",
       "away": "PHX",
       "home": "OKC",
@@ -165,9 +121,53 @@
       "period": 4,
       "game_status_text": "Final",
       "start_time": "2026-04-13T00:30:00Z"
+    },
+    {
+      "game_id": "0022501197",
+      "away": "DEN",
+      "home": "SAS",
+      "away_score": 128,
+      "home_score": 118,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-13T00:30:00Z"
+    },
+    {
+      "game_id": "0022501198",
+      "away": "UTA",
+      "home": "LAL",
+      "away_score": 107,
+      "home_score": 131,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-13T00:30:00Z"
+    },
+    {
+      "game_id": "0022501199",
+      "away": "GSW",
+      "home": "LAC",
+      "away_score": 110,
+      "home_score": 115,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-13T00:30:00Z"
+    },
+    {
+      "game_id": "0022501200",
+      "away": "SAC",
+      "home": "POR",
+      "away_score": 110,
+      "home_score": 122,
+      "state": "FINAL",
+      "period": 4,
+      "game_status_text": "Final",
+      "start_time": "2026-04-13T00:30:00Z"
     }
   ],
-  "today": "2026-04-12",
+  "today": "2026-04-13",
   "mode": "LIVE",
   "bot_version": "NBA (Pinnacle)",
   "bets": [
