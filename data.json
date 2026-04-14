@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-04-14T16:00:03.181012+00:00",
-  "scoreboard": [],
+  "last_updated": "2026-04-14T16:15:06.810854+00:00",
+  "scoreboard": [
+    {
+      "game_id": "0052500111",
+      "away": "MIA",
+      "home": "CHA",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "period": 0,
+      "game_status_text": "7:30 pm ET",
+      "start_time": "2026-04-14T23:30:00Z"
+    },
+    {
+      "game_id": "0052500121",
+      "away": "POR",
+      "home": "PHX",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "period": 0,
+      "game_status_text": "10:00 pm ET",
+      "start_time": "2026-04-15T02:00:00Z"
+    }
+  ],
   "today": "2026-04-14",
   "mode": "LIVE",
   "bot_version": "NBA (Pinnacle)",
@@ -21,7 +44,38 @@
       "profit": ""
     }
   ],
-  "today_games": [],
+  "today_games": [
+    {
+      "date": "2026-04-14",
+      "time": "10:15:06",
+      "game_id": "0052500111",
+      "home_team": "CHA",
+      "away_team": "MIA",
+      "home_prob": "0.6719",
+      "away_prob": "0.3281",
+      "poly_home_price": "0.6800",
+      "poly_away_price": "0.3300",
+      "home_ev": "-0.0118",
+      "away_ev": "-0.0059",
+      "bet_placed": "NO",
+      "bet_side": ""
+    },
+    {
+      "date": "2026-04-14",
+      "time": "10:15:06",
+      "game_id": "0052500121",
+      "home_team": "PHX",
+      "away_team": "POR",
+      "home_prob": "0.5846",
+      "away_prob": "0.4154",
+      "poly_home_price": "0.5900",
+      "poly_away_price": "0.4200",
+      "home_ev": "-0.0092",
+      "away_ev": "-0.0109",
+      "bet_placed": "NO",
+      "bet_side": ""
+    }
+  ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 1
