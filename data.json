@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T16:30:08.182735+00:00",
+  "last_updated": "2026-04-14T16:45:06.109814+00:00",
   "scoreboard": [
     {
       "game_id": "0052500111",
@@ -47,22 +47,22 @@
   "today_games": [
     {
       "date": "2026-04-14",
-      "time": "10:30:07",
+      "time": "10:45:05",
       "game_id": "0052500111",
       "home_team": "CHA",
       "away_team": "MIA",
-      "home_prob": "0.6719",
-      "away_prob": "0.3281",
-      "poly_home_price": "0.6800",
-      "poly_away_price": "0.3300",
-      "home_ev": "-0.0118",
-      "away_ev": "-0.0059",
+      "home_prob": "0.6705",
+      "away_prob": "0.3295",
+      "poly_home_price": "0.7000",
+      "poly_away_price": "0.3100",
+      "home_ev": "-0.0422",
+      "away_ev": "0.0630",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-14",
-      "time": "10:30:08",
+      "time": "10:45:06",
       "game_id": "0052500121",
       "home_team": "PHX",
       "away_team": "POR",
