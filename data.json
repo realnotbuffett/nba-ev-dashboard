@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-16T00:30:05.510632+00:00",
+  "last_updated": "2026-04-16T00:45:04.988764+00:00",
   "scoreboard": [
     {
       "game_id": "0052500101",
       "away": "ORL",
       "home": "PHI",
-      "away_score": 36,
-      "home_score": 39,
+      "away_score": 53,
+      "home_score": 54,
       "state": "LIVE",
       "period": 2,
-      "game_status_text": "Q2 6:15",
+      "game_status_text": "Q2 1:08",
       "start_time": "2026-04-15T23:30:00Z"
     },
     {
@@ -47,16 +47,16 @@
   "today_games": [
     {
       "date": "2026-04-15",
-      "time": "18:30:05",
+      "time": "18:45:04",
       "game_id": "0052500131",
       "home_team": "LAC",
       "away_team": "GSW",
-      "home_prob": "0.6705",
-      "away_prob": "0.3295",
+      "home_prob": "0.6719",
+      "away_prob": "0.3281",
       "poly_home_price": "0.6800",
       "poly_away_price": "0.3300",
-      "home_ev": "-0.0140",
-      "away_ev": "-0.0014",
+      "home_ev": "-0.0118",
+      "away_ev": "-0.0059",
       "bet_placed": "NO",
       "bet_side": ""
     }
