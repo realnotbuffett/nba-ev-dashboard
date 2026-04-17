@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-04-17T16:00:02.883816+00:00",
-  "scoreboard": [],
+  "last_updated": "2026-04-17T16:15:05.646424+00:00",
+  "scoreboard": [
+    {
+      "game_id": "0052500201",
+      "away": "CHA",
+      "home": "ORL",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "period": 0,
+      "game_status_text": "7:30 pm ET",
+      "start_time": "2026-04-17T23:30:00Z"
+    },
+    {
+      "game_id": "0052500211",
+      "away": "GSW",
+      "home": "PHX",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "period": 0,
+      "game_status_text": "10:00 pm ET",
+      "start_time": "2026-04-18T02:00:00Z"
+    }
+  ],
   "today": "2026-04-17",
   "mode": "LIVE",
   "bot_version": "NBA (Pinnacle)",
@@ -21,7 +44,38 @@
       "profit": ""
     }
   ],
-  "today_games": [],
+  "today_games": [
+    {
+      "date": "2026-04-17",
+      "time": "10:15:04",
+      "game_id": "0052500201",
+      "home_team": "ORL",
+      "away_team": "CHA",
+      "home_prob": "0.4025",
+      "away_prob": "0.5975",
+      "poly_home_price": "0.4100",
+      "poly_away_price": "0.6000",
+      "home_ev": "-0.0184",
+      "away_ev": "-0.0041",
+      "bet_placed": "NO",
+      "bet_side": ""
+    },
+    {
+      "date": "2026-04-17",
+      "time": "10:15:05",
+      "game_id": "0052500211",
+      "home_team": "PHX",
+      "away_team": "GSW",
+      "home_prob": "0.5821",
+      "away_prob": "0.4179",
+      "poly_home_price": "0.5900",
+      "poly_away_price": "0.4200",
+      "home_ev": "-0.0134",
+      "away_ev": "-0.0050",
+      "bet_placed": "NO",
+      "bet_side": ""
+    }
+  ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 1
