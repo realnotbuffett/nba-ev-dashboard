@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-17T23:30:06.062627+00:00",
+  "last_updated": "2026-04-17T23:45:05.370066+00:00",
   "scoreboard": [
     {
       "game_id": "0052500201",
       "away": "CHA",
       "home": "ORL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
-      "period": 0,
-      "game_status_text": "7:30 pm ET",
+      "away_score": 5,
+      "home_score": 6,
+      "state": "LIVE",
+      "period": 1,
+      "game_status_text": "Q1 9:21",
       "start_time": "2026-04-17T23:30:00Z"
     },
     {
@@ -47,22 +47,7 @@
   "today_games": [
     {
       "date": "2026-04-17",
-      "time": "17:30:05",
-      "game_id": "0052500201",
-      "home_team": "ORL",
-      "away_team": "CHA",
-      "home_prob": "0.4229",
-      "away_prob": "0.5771",
-      "poly_home_price": "0.4300",
-      "poly_away_price": "0.5800",
-      "home_ev": "-0.0165",
-      "away_ev": "-0.0050",
-      "bet_placed": "NO",
-      "bet_side": ""
-    },
-    {
-      "date": "2026-04-17",
-      "time": "17:30:06",
+      "time": "17:45:05",
       "game_id": "0052500211",
       "home_team": "PHX",
       "away_team": "GSW",
