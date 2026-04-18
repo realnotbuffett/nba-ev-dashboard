@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-18T19:00:05.788909+00:00",
+  "last_updated": "2026-04-18T19:15:05.881804+00:00",
   "scoreboard": [
     {
       "game_id": "0042500131",
       "away": "TOR",
       "home": "CLE",
-      "away_score": 74,
-      "home_score": 89,
+      "away_score": 84,
+      "home_score": 106,
       "state": "LIVE",
-      "period": 3,
-      "game_status_text": "Q3 1:03",
+      "period": 4,
+      "game_status_text": "Q4 9:28",
       "start_time": "2026-04-18T17:00:00Z"
     },
     {
@@ -69,7 +69,7 @@
   "today_games": [
     {
       "date": "2026-04-18",
-      "time": "13:00:05",
+      "time": "13:15:05",
       "game_id": "0042500161",
       "home_team": "DEN",
       "away_team": "MIN",
@@ -84,7 +84,7 @@
     },
     {
       "date": "2026-04-18",
-      "time": "13:00:05",
+      "time": "13:15:05",
       "game_id": "0042500121",
       "home_team": "NYK",
       "away_team": "ATL",
@@ -99,7 +99,7 @@
     },
     {
       "date": "2026-04-18",
-      "time": "13:00:05",
+      "time": "13:15:05",
       "game_id": "0042500171",
       "home_team": "LAL",
       "away_team": "HOU",
