@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-19T16:45:08.803746+00:00",
+  "last_updated": "2026-04-19T17:15:07.265529+00:00",
   "scoreboard": [
     {
       "game_id": "0042500111",
       "away": "PHI",
       "home": "BOS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
-      "period": 0,
-      "game_status_text": "1:00 pm ET",
+      "away_score": 6,
+      "home_score": 6,
+      "state": "LIVE",
+      "period": 1,
+      "game_status_text": "Q1 9:55",
       "start_time": "2026-04-19T17:00:00Z"
     },
     {
@@ -69,22 +69,7 @@
   "today_games": [
     {
       "date": "2026-04-19",
-      "time": "10:45:06",
-      "game_id": "0042500111",
-      "home_team": "BOS",
-      "away_team": "PHI",
-      "home_prob": "0.8566",
-      "away_prob": "0.1434",
-      "poly_home_price": "0.8800",
-      "poly_away_price": "0.1300",
-      "home_ev": "-0.0266",
-      "away_ev": "0.1031",
-      "bet_placed": "NO",
-      "bet_side": ""
-    },
-    {
-      "date": "2026-04-19",
-      "time": "10:45:07",
+      "time": "11:15:05",
       "game_id": "0042500141",
       "home_team": "OKC",
       "away_team": "PHX",
@@ -99,22 +84,22 @@
     },
     {
       "date": "2026-04-19",
-      "time": "10:45:08",
+      "time": "11:15:06",
       "game_id": "0042500101",
       "home_team": "DET",
       "away_team": "ORL",
-      "home_prob": "0.7713",
-      "away_prob": "0.2287",
+      "home_prob": "0.7697",
+      "away_prob": "0.2303",
       "poly_home_price": "0.8000",
       "poly_away_price": "0.2100",
-      "home_ev": "-0.0358",
-      "away_ev": "0.0889",
+      "home_ev": "-0.0379",
+      "away_ev": "0.0969",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-19",
-      "time": "10:45:08",
+      "time": "11:15:07",
       "game_id": "0042500151",
       "home_team": "SAS",
       "away_team": "POR",
