@@ -1,15 +1,26 @@
 {
-  "last_updated": "2026-04-19T00:45:05.112021+00:00",
+  "last_updated": "2026-04-19T01:00:04.270878+00:00",
   "scoreboard": [
+    {
+      "game_id": "0042500171",
+      "away": "HOU",
+      "home": "LAL",
+      "away_score": 14,
+      "home_score": 17,
+      "state": "LIVE",
+      "period": 1,
+      "game_status_text": "Q1 6:11",
+      "start_time": "2026-04-19T00:30:00Z"
+    },
     {
       "game_id": "0042500121",
       "away": "ATL",
       "home": "NYK",
-      "away_score": 100,
-      "home_score": 109,
-      "state": "LIVE",
+      "away_score": 102,
+      "home_score": 113,
+      "state": "FINAL",
       "period": 4,
-      "game_status_text": "Q4 :40.7",
+      "game_status_text": "Final",
       "start_time": "2026-04-18T22:00:00Z"
     },
     {
@@ -33,17 +44,6 @@
       "period": 4,
       "game_status_text": "Final",
       "start_time": "2026-04-18T19:30:00Z"
-    },
-    {
-      "game_id": "0042500171",
-      "away": "HOU",
-      "home": "LAL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
-      "period": 0,
-      "game_status_text": "8:30 pm ET",
-      "start_time": "2026-04-19T00:30:00Z"
     }
   ],
   "today": "2026-04-18",
@@ -66,23 +66,7 @@
       "profit": ""
     }
   ],
-  "today_games": [
-    {
-      "date": "2026-04-18",
-      "time": "18:45:05",
-      "game_id": "0042500171",
-      "home_team": "LAL",
-      "away_team": "HOU",
-      "home_prob": "0.4261",
-      "away_prob": "0.5739",
-      "poly_home_price": "0.4200",
-      "poly_away_price": "0.5900",
-      "home_ev": "0.0144",
-      "away_ev": "-0.0272",
-      "bet_placed": "NO",
-      "bet_side": ""
-    }
-  ],
+  "today_games": [],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 1
