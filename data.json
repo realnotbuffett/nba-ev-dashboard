@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-19T00:15:04.863450+00:00",
+  "last_updated": "2026-04-19T00:30:04.848512+00:00",
   "scoreboard": [
     {
       "game_id": "0042500121",
       "away": "ATL",
       "home": "NYK",
-      "away_score": 74,
-      "home_score": 83,
+      "away_score": 87,
+      "home_score": 103,
       "state": "LIVE",
-      "period": 3,
-      "game_status_text": "END Q3",
+      "period": 4,
+      "game_status_text": "Q4 5:35",
       "start_time": "2026-04-18T22:00:00Z"
     },
     {
@@ -69,16 +69,16 @@
   "today_games": [
     {
       "date": "2026-04-18",
-      "time": "18:15:04",
+      "time": "18:30:04",
       "game_id": "0042500171",
       "home_team": "LAL",
       "away_team": "HOU",
-      "home_prob": "0.4394",
-      "away_prob": "0.5606",
+      "home_prob": "0.4271",
+      "away_prob": "0.5729",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "0.0218",
-      "away_ev": "-0.0334",
+      "home_ev": "-0.0067",
+      "away_ev": "-0.0123",
       "bet_placed": "NO",
       "bet_side": ""
     }
