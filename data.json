@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-19T20:15:05.482428+00:00",
+  "last_updated": "2026-04-19T20:30:05.603801+00:00",
   "scoreboard": [
     {
       "game_id": "0042500141",
       "away": "PHX",
       "home": "OKC",
-      "away_score": 19,
-      "home_score": 31,
+      "away_score": 24,
+      "home_score": 45,
       "state": "LIVE",
-      "period": 1,
-      "game_status_text": "Q1 :25.3",
+      "period": 2,
+      "game_status_text": "Q2 9:05",
       "start_time": "2026-04-19T19:30:00Z"
     },
     {
@@ -69,7 +69,7 @@
   "today_games": [
     {
       "date": "2026-04-19",
-      "time": "14:15:04",
+      "time": "14:30:04",
       "game_id": "0042500101",
       "home_team": "DET",
       "away_team": "ORL",
@@ -84,7 +84,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "14:15:05",
+      "time": "14:30:05",
       "game_id": "0042500151",
       "home_team": "SAS",
       "away_team": "POR",
