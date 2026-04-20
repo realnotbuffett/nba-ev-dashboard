@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-20T01:30:03.731558+00:00",
+  "last_updated": "2026-04-20T01:45:03.696737+00:00",
   "scoreboard": [
     {
       "game_id": "0042500151",
       "away": "POR",
       "home": "SAS",
-      "away_score": 12,
-      "home_score": 14,
+      "away_score": 22,
+      "home_score": 30,
       "state": "LIVE",
       "period": 1,
-      "game_status_text": "Q1 6:37",
+      "game_status_text": "Q1 :00.0",
       "start_time": "2026-04-20T01:00:00Z"
     },
     {
