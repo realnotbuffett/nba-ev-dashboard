@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-21T02:15:05.565748+00:00",
+  "last_updated": "2026-04-21T02:30:05.773976+00:00",
   "scoreboard": [
     {
       "game_id": "0042500122",
       "away": "ATL",
       "home": "NYK",
-      "away_score": 83,
-      "home_score": 91,
+      "away_score": 92,
+      "home_score": 100,
       "state": "LIVE",
       "period": 4,
-      "game_status_text": "Q4 10:30",
+      "game_status_text": "Q4 5:25",
       "start_time": "2026-04-21T00:00:00Z"
     },
     {
@@ -58,16 +58,16 @@
   "today_games": [
     {
       "date": "2026-04-20",
-      "time": "20:15:05",
+      "time": "20:30:05",
       "game_id": "0042500162",
       "home_team": "DEN",
       "away_team": "MIN",
-      "home_prob": "0.7243",
-      "away_prob": "0.2757",
+      "home_prob": "0.7406",
+      "away_prob": "0.2594",
       "poly_home_price": "0.7300",
       "poly_away_price": "0.2800",
-      "home_ev": "-0.0078",
-      "away_ev": "-0.0153",
+      "home_ev": "0.0145",
+      "away_ev": "-0.0736",
       "bet_placed": "NO",
       "bet_side": ""
     }
